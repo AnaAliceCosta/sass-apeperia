@@ -1,0 +1,22 @@
+{
+  "name": "sass-apeperia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaAliceCosta/sass-apeperia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaAliceCosta/sass-apeperia/issues"
+  },
+  "homepage": "https://github.com/AnaAliceCosta/sass-apeperia#readme",
+  "devDependencies": {
+    "sass": "^1.22.7"
+  }
+}
